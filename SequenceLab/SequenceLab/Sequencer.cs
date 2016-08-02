@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SequenceLab
 {
-    public class Class1
+    public class Sequencer : ISequence
     {
+        public int TailorSeries()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
