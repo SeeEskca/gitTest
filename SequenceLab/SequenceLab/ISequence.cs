@@ -9,5 +9,6 @@ namespace SequenceLab
     public interface ISequence
     {
         int TailorSeries();
+        double MacLaureenSeries(double a, double b);
     }
 }
