@@ -1,0 +1,5 @@
+C:\GitTest\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.dll
+C:\GitTest\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.pdb
+C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.csprojResolveAssemblyReference.cache
+C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.dll
+C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.pdb
