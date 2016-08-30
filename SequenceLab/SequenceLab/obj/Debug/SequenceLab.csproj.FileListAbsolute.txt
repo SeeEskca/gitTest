@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\GitTest\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.dll
 C:\GitTest\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.pdb
 C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.csprojResolveAssemblyReference.cache
 C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.dll
 C:\GitTest\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.pdb
+=======
+C:\GitTest\gitTest3\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.csprojResolveAssemblyReference.cache
+C:\GitTest\gitTest3\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.dll
+C:\GitTest\gitTest3\gitTest\SequenceLab\SequenceLab\bin\Debug\SequenceLab.pdb
+C:\GitTest\gitTest3\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.dll
+C:\GitTest\gitTest3\gitTest\SequenceLab\SequenceLab\obj\Debug\SequenceLab.pdb
+>>>>>>> 441b7ddc6345bc12b63929bccae6d7d0b1d4fbe8

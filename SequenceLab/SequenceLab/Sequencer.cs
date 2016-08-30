@@ -10,7 +10,12 @@ namespace SequenceLab
     {
         public int TailorSeries()
         {
-            throw new NotImplementedException();
+            return 5*5;//test return value...
+        }
+
+        public double MacLaureenSeries(double a, double b)
+        {
+            return a * 3 + b + 2;
         }
     }
 }
